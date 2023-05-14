@@ -1,0 +1,42 @@
+[
+	{
+		"file": "D:\\Study\\Udemy\\Courses\\Unreal Engine 5 C++ Developer Learn C++ And Make Video Games\\ObstacleAssault\\Source\\ObstacleAssault\\MyActor.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Study\\Udemy\\Courses\\Unreal Engine 5 C++ Developer Learn C++ And Make Video Games\\ObstacleAssault\\.vscode\\compileCommands_Default\\ObstacleAssault.249.rsp"
+		],
+		"directory": "D:\\EpicGames\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Study\\Udemy\\Courses\\Unreal Engine 5 C++ Developer Learn C++ And Make Video Games\\ObstacleAssault\\Source\\ObstacleAssault\\MyActor.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Study\\Udemy\\Courses\\Unreal Engine 5 C++ Developer Learn C++ And Make Video Games\\ObstacleAssault\\.vscode\\compileCommands_Default\\ObstacleAssault.249.rsp"
+		],
+		"directory": "D:\\EpicGames\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Study\\Udemy\\Courses\\Unreal Engine 5 C++ Developer Learn C++ And Make Video Games\\ObstacleAssault\\Source\\ObstacleAssault\\ObstacleAssault.Build.cs",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Study\\Udemy\\Courses\\Unreal Engine 5 C++ Developer Learn C++ And Make Video Games\\ObstacleAssault\\.vscode\\compileCommands_Default\\ObstacleAssault.249.rsp"
+		],
+		"directory": "D:\\EpicGames\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Study\\Udemy\\Courses\\Unreal Engine 5 C++ Developer Learn C++ And Make Video Games\\ObstacleAssault\\Source\\ObstacleAssault\\ObstacleAssault.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Study\\Udemy\\Courses\\Unreal Engine 5 C++ Developer Learn C++ And Make Video Games\\ObstacleAssault\\.vscode\\compileCommands_Default\\ObstacleAssault.249.rsp"
+		],
+		"directory": "D:\\EpicGames\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Study\\Udemy\\Courses\\Unreal Engine 5 C++ Developer Learn C++ And Make Video Games\\ObstacleAssault\\Source\\ObstacleAssault\\ObstacleAssault.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Study\\Udemy\\Courses\\Unreal Engine 5 C++ Developer Learn C++ And Make Video Games\\ObstacleAssault\\.vscode\\compileCommands_Default\\ObstacleAssault.249.rsp"
+		],
+		"directory": "D:\\EpicGames\\UE_5.1\\Engine\\Source"
+	}
+]
